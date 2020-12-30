@@ -1,6 +1,6 @@
 public class EvenOrNot {
     public static void main(String[] args) {
-        int i = evenOrNot(3);
+        int i = evenOrNot(5);
         if(i == 0){
             System.out.println("Odd Number");
         }else{
