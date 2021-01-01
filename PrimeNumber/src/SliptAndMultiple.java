@@ -9,10 +9,6 @@ public class SliptAndMultiple {
     public static int splitAndMultiple(int meraNumber){
         int A=0;
         int B=0;
-        int C=0;
-        int D=0;
-        int E=0;
-        int F=0;
         int G=0;
         D=meraNumber%10;
         A=meraNumber/10;
