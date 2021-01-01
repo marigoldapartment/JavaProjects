@@ -7,7 +7,7 @@ public class SliptAndMultiple {
     }
 
     public static int splitAndMultiple(int meraNumber){
-        int A=0;
+       /* int A=0;
         int B=0;
         int G=0;
         D=meraNumber%10;
@@ -18,11 +18,11 @@ public class SliptAndMultiple {
         C=B/10;
         G=C*F*E*D;
 
-        /*System.out.println("spliting the numbers  "+C+"  "+F+"  "+E+"  "+D );
-        System.out.println("your factorial of your number  "+G);*/
+        *//*System.out.println("spliting the numbers  "+C+"  "+F+"  "+E+"  "+D );
+        System.out.println("your factorial of your number  "+G);*//*
 
-        System.out.println("Product of your number" + " is "+ G);
-        return G;
+        System.out.println("Product of your number" + " is "+ G);*/
+        return 0;
 
 
     }

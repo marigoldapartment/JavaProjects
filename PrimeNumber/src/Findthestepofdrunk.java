@@ -17,6 +17,6 @@ public class Findthestepofdrunk {
 
         String s = "the drumker ";
 
-
+        return 0;
     }
 }
