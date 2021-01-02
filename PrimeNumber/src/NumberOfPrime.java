@@ -4,5 +4,7 @@ public class NumberOfPrime {
     }
 
     private static int countTotalNumber(int start, int end) {
+        return 0;
     }
+
 }
