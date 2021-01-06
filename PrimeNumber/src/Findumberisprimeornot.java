@@ -1,6 +1,6 @@
 public class Findumberisprimeornot {
     public static void main(String[] args) {
-        System.out.println(Findnumberisprimeornot(14));
+        System.out.println(Findnumberisprimeornot(3));
     }
 
     private static int Findnumberisprimeornot(int end) {

@@ -1,6 +1,6 @@
 public class NoOfDays {
     public static void main(String[] args) {
-        System.out.println(noOfDays(2));
+        System.out.println(noOfDays(12));
     }
 
     public static int noOfDays(int month) {
