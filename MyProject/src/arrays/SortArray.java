@@ -1,6 +1,5 @@
 package arrays;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class SortArray {
@@ -19,7 +18,6 @@ public class SortArray {
             a[min_index] = a[i];
             a[i] = c;
         }
-
         System.out.println(Arrays.toString(a));
 
     }
