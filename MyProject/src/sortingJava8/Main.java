@@ -14,5 +14,6 @@ public class Main {
         studentlist.forEach((e)-> System.out.println(e));
         studentlist.sort((e2,e1) -> e2.getAddress().getStreetNo() - e1.getAddress().getStreetNo());
         studentlist.forEach((e)-> System.out.println(e));
+
     }
 }
