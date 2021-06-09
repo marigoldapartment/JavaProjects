@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="Sorting/" kind="src" path="MyProject/src"/>
+	<classpathentry kind="src" path="MyProject/src/Sorting"/>
+	<classpathentry kind="output" path="MyProject/out/production/PrimeNumber"/>
+</classpath>
